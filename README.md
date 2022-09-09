@@ -22,6 +22,7 @@
 
 📚Fall 2022 - CINE-GT 3040:📚
 Cinema and the Digital Humanities: History, Concepts, and New Approaches to the Study of Moving Images
+
 --------
 
 🌐 This site was built using [GitHub Pages](https://pages.github.com/)
@@ -40,8 +41,14 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 .
 .
 .
-.
+--------
+--------
+--------
+--------
 ****
+For Class:
+"I am coming from a fine arts background so my language/vernaculuar/understanding of formal digital humanities might not port directly. I'll usually approach work through asthetic or concept first, rather than technical underpinnings or function."
+
 About Me:
 "Tannon Reckling is a transdisciplinary queer organizer, writer, teacher, and curator. Reckling is an incoming graduate 
 student studying HIV/AIDS activism through new media at Tisch School, New York University. Reckling has previously attended 
@@ -52,7 +59,6 @@ queer play, and necropolitics."
 ***
 
 ***
-Insert Digital Humanities 
 Recents:
 -
 -
@@ -60,9 +66,6 @@ Recents:
 -
 -
 -
-
-
-
 -------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aD7F6M9fsms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
