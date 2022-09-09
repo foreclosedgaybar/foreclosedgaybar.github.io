@@ -25,8 +25,7 @@
 Cinema and the Digital Humanities: History, Concepts, and New Approaches to the Study of Moving Images
 
 --------
---------
---------
+
 --------
 --------
 🌐 This site was built using [GitHub Pages](https://pages.github.com/) / I am trying GitHub as a way of experimenting with professional free personal website platforms...
@@ -51,7 +50,6 @@ queer play, and necropolitics."
 
 -------
 -------
--------
 Recent Labor(WIP):
 - Writing for Variable West: [link](https://variablewest.com/2021/09/16/interview-eden-v-evans-brian-gilllis/)
 - Curated residency/exhibition at Tropical Contemporary, Eugene, OR: [link](https://www.tropicalcontemporary.space/month-of-sundays)
@@ -60,11 +58,10 @@ Recent Labor(WIP):
 - adding more later....
 
 -------
--------
--------
-Rabbit Holes(WIP:
+Rabbit Holes(WIP):
 - Exhibition: "I was raised on the Internet" MCA-Chicago: [link](https://mcachicago.org/Publications/Websites/I-Was-Raised-On-The-Internet)
-- Net Art: "Brandon" Guggenheim: [link](https://www.guggenheim.org/artwork/15337)
+- Net Art: "Black Trans Archive", Danielle Brathwaite-Shirley: [link](https://blacktransarchive.com)
+- Net Art: "Brandon", Shu Lea Cheang, Guggenheim: [link](https://www.guggenheim.org/artwork/15337)
 - adding more later....
 - Exhibition: "When I Leave This World" OCD Chinatown: [link](https://ocdchinatown.com/Carlos-Motta-and-Tiamat-Legion-Medusa)
 
