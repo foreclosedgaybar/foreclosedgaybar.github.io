@@ -7,4 +7,4 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
-a link to my [ABOUT ME PAGE](https://pages.github.com/)
+a link to my [ABOUT ME PAGE](foreclosedgaybar.github.io/AboutMe)
