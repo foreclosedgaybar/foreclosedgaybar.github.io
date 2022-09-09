@@ -2,22 +2,24 @@
 
 
 
-.
-.
-.
-.
-.
+--------
+--------
+--------
+--------
+--------
+--------
+--------
 🪴🫶🪴 🫶This is an beta test for Tannon Reckling's website+ blog pages for:
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-.
-.
-.(Literally don't know how to use github / this is a WIP)
-.
-.
-.
-.
 
-------
+--------
+--------
+(Literally don't know how to use github / this is a WIP)
+
+--------
+--------
+--------
+--------
 
 📚Fall 2022 - CINE-GT 3040:📚
 Cinema and the Digital Humanities: History, Concepts, and New Approaches to the Study of Moving Images
