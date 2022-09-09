@@ -58,16 +58,15 @@ Recent Labor(WIP):
 - Curated residency/exhibition at Tropical Contemporary, Eugene, OR: [link](https://www.tropicalcontemporary.space/month-of-sundays)
 - Curated exhibition at Vox Populi, Philadelphia, PA: [link](https://voxpopuligallery.org/exhibitions/spreading-lights/)
 - Writing for TITLE Magazine:  [link](http://www.title-magazine.com/2022/02/i-wish-my-prep-medication-made-me-feel-an-interview-with-nicolo-gentile/)
-- 
 - adding more later....
-
-
+***
 -------
 -------
 -------
+***
 Rabbit Holes(WIP):
--Exhibition: "I was raised on the Internet" MCA-Chicago: [link](https://mcachicago.org/Publications/Websites/I-Was-Raised-On-The-Internet)
--Net Art: "Brandon" Guggenheim: [link](https://www.guggenheim.org/artwork/15337)
+- Exhibition: "I was raised on the Internet" MCA-Chicago: [link](https://mcachicago.org/Publications/Websites/I-Was-Raised-On-The-Internet)
+- Net Art: "Brandon" Guggenheim: [link](https://www.guggenheim.org/artwork/15337)
 - adding more later....
 - Exhibition: "When I Leave This World" OCD Chinatown: [link](https://ocdchinatown.com/Carlos-Motta-and-Tiamat-Legion-Medusa)
 
