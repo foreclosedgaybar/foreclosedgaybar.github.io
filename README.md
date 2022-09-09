@@ -33,11 +33,8 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 
 🌈 a link to my WIP [ABOUT ME PAGE](https://github.com/foreclosedgaybar/foreclosedgaybar.github.io/blob/aa9988fcc11d1cc68c57f490387d5b4045916577/AboutMe)
 
---------
---------
---------
---------
---------
+Info: 'foreclosedgaybar' has been my online handle for years and I'm just keeping it for now...
+
 --------
 --------
 --------
@@ -47,7 +44,7 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 --------
 
 For Class:
-- "I am coming from a fine arts background so my language/vernaculuar/understanding of formal digital humanities might not port directly. I'll usually approach work through asthetic or concept first, rather than technical underpinnings or function."
+- "I am coming from a studio arts/new media background so my language/vernacular/understanding of formal digital humanities might not port directly at first-but all my labor is, to be understanding, definitely within a digital humanities feild: just being engaged in a different field." 
 
 About Me:
 - "Tannon Reckling is a transdisciplinary queer organizer, writer, teacher, and curator. Reckling is an incoming graduate 
