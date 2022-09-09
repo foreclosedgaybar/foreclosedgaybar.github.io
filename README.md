@@ -1,7 +1,12 @@
 
 
 
-.
+header {
+  background-image: url(https://www.quill.com/is/image/Quill/m007112102_s7?$img400$);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
 .
 .
 .
