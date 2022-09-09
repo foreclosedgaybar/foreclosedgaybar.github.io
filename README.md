@@ -13,7 +13,15 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 
 :globe_with_meridians: This site was built using [GitHub Pages](https://pages.github.com/)
 
-:unicorn: a link to my [ABOUT ME PAGE](https://github.com/foreclosedgaybar/foreclosedgaybar.github.io/blob/aa9988fcc11d1cc68c57f490387d5b4045916577/AboutMe)
+:unicorn: a link to my WIP [ABOUT ME PAGE](https://github.com/foreclosedgaybar/foreclosedgaybar.github.io/blob/aa9988fcc11d1cc68c57f490387d5b4045916577/AboutMe)
 
+About Me:
+Tannon Reckling is a transdisciplinary queer organizer, writer, teacher, and curator. Reckling is an incoming graduate 
+student studying HIV/AIDS activism through new media at Tisch School, New York University. Reckling has previously attended 
+University of Oregon, University of California- Los Angeles. Reckling has curated and shown work in Philadelphia, PA, New York 
+City, NY, Los Angeles, CA, Venice, Italy, and more. Reckling is co-organizing the Philadelphia Museum of Art’s ‘Day Without Day 2022’
+iteration. Reckling recently curated the exhibition ‘Spreading Lights’ at Vox Populi in Philadelphia, PA which explored: “the virus,” 
+queer play, and necropolitics. 
+***
 
 -------
