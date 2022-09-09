@@ -1,4 +1,3 @@
-# website
 
 This is an beta test build for Tannon Reckling's website/blog page for:
 
