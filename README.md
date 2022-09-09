@@ -48,23 +48,21 @@ University of Oregon, University of California- Los Angeles. Reckling has curate
 City, NY, Los Angeles, CA, Venice, Italy, and more. Reckling is co-organizing the Philadelphia Museum of Art’s ‘Day Without Day 2022’
 iteration. Reckling recently curated the exhibition ‘Spreading Lights’ at Vox Populi in Philadelphia, PA which explored: “the virus,” 
 queer play, and necropolitics."
-***
+
 -------
 -------
 -------
-***
 Recent Labor(WIP):
 - Writing for Variable West: [link](https://variablewest.com/2021/09/16/interview-eden-v-evans-brian-gilllis/)
 - Curated residency/exhibition at Tropical Contemporary, Eugene, OR: [link](https://www.tropicalcontemporary.space/month-of-sundays)
 - Curated exhibition at Vox Populi, Philadelphia, PA: [link](https://voxpopuligallery.org/exhibitions/spreading-lights/)
 - Writing for TITLE Magazine:  [link](http://www.title-magazine.com/2022/02/i-wish-my-prep-medication-made-me-feel-an-interview-with-nicolo-gentile/)
 - adding more later....
-***
+
 -------
 -------
 -------
-***
-Rabbit Holes(WIP):
+Rabbit Holes(WIP:
 - Exhibition: "I was raised on the Internet" MCA-Chicago: [link](https://mcachicago.org/Publications/Websites/I-Was-Raised-On-The-Internet)
 - Net Art: "Brandon" Guggenheim: [link](https://www.guggenheim.org/artwork/15337)
 - adding more later....
