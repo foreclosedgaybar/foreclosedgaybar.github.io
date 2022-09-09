@@ -37,11 +37,6 @@ Info: 'foreclosedgaybar' has been my online handle for years and I'm just keepin
 
 --------
 --------
---------
---------
---------
---------
---------
 
 For Class:
 - "I am coming from a studio arts/new media background so my language/vernacular/understanding of formal digital humanities might not port directly at first-but all my labor is, to be understanding, definitely within a digital humanities feild: just being engaged in a different field." 
