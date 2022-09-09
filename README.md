@@ -1,8 +1,7 @@
 
 
 
-background-color: #e6e6e6;
-.
+
 .
 .
 .
