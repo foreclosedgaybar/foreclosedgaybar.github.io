@@ -58,7 +58,7 @@ queer play, and necropolitics."
 ***
 
 ***
-Recents:
+Recent Labor:
 - Writing for AUTOMAT Collective: [link](https://www.automatcollective.com/hard-medium-software)
 - Curated exhibition at Vox Populi, Philadelphia, PA: [link](https://voxpopuligallery.org/exhibitions/spreading-lights/)
 - Writing for TITLE Magazine:  [link](http://www.title-magazine.com/2022/02/i-wish-my-prep-medication-made-me-feel-an-interview-with-nicolo-gentile/)
