@@ -37,7 +37,7 @@ Info: 'foreclosedgaybar' has been my online handle for years and I'm just keepin
 
 --------
 --------
-
+(WIP)
 For Class:
 - "I am coming from a studio arts/new media background so my language/vernacular/understanding of formal digital humanities might not port directly at first - - - but all my labor is, to my understanding, definitely within any digital humanities field: just being engaged in a different syntax." 
 
@@ -49,14 +49,26 @@ City, NY, Los Angeles, CA, Venice, Italy, and more. Reckling is co-organizing th
 iteration. Reckling recently curated the exhibition ‘Spreading Lights’ at Vox Populi in Philadelphia, PA which explored: “the virus,” 
 queer play, and necropolitics."
 ***
-
+-------
+-------
+-------
 ***
-Recent Labor:
-- Writing for AUTOMAT Collective: [link](https://www.automatcollective.com/hard-medium-software)
+Recent Labor(WIP):
+- Writing for Variable West: [link](https://variablewest.com/2021/09/16/interview-eden-v-evans-brian-gilllis/)
+- Curated residency/exhibition at Tropical Contemporary, Eugene, OR: [link](https://www.tropicalcontemporary.space/month-of-sundays)
 - Curated exhibition at Vox Populi, Philadelphia, PA: [link](https://voxpopuligallery.org/exhibitions/spreading-lights/)
 - Writing for TITLE Magazine:  [link](http://www.title-magazine.com/2022/02/i-wish-my-prep-medication-made-me-feel-an-interview-with-nicolo-gentile/)
-- adding more later-.dsf
+- 
+- adding more later....
+
 
 -------
+-------
+-------
+Rabbit Holes(WIP):
+-Exhibition: "I was raised on the Internet" MCA-Chicago: [link](https://mcachicago.org/Publications/Websites/I-Was-Raised-On-The-Internet)
+-Net Art: "Brandon" Guggenheim: [link](https://www.guggenheim.org/artwork/15337)
+- adding more later....
+- Exhibition: "When I Leave This World" OCD Chinatown: [link](https://ocdchinatown.com/Carlos-Motta-and-Tiamat-Legion-Medusa)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aD7F6M9fsms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
