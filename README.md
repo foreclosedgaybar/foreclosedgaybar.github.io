@@ -63,6 +63,7 @@ Recents:
 - Curated exhibition at Vox Populi, Philadelphia, PA: [link](https://voxpopuligallery.org/exhibitions/spreading-lights/)
 - Writing for TITLE Magazine:  [link](http://www.title-magazine.com/2022/02/i-wish-my-prep-medication-made-me-feel-an-interview-with-nicolo-gentile/)
 - adding more later-.dsf
+
 -------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aD7F6M9fsms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
