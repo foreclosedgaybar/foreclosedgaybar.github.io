@@ -5,6 +5,25 @@
 --------
 --------
 --------
+
+Blog Post In Class (Tuesday, Sept. 20th, 2022):
+1. What are the affordances (benefits) of these digital tools and/or computational methods? Consider, for instance, how you would use this specific approach, and towards what kind of research questions.  
+2. What are some limitations to this methodology/tool? 
+3. Experiment with the database – what would you do with all this data at your disposal? What would you add to the database? What would be some variants and specific examples (e.g. film genres, film traditions, national cinemas) that could generate interesting comparative analysis? 
+4. Consider the “so what?” question. Or, in this case, whether this particular tool/platform generates new knowledge (in Tzivian’s words, ” new questions” for “old answers,” not “new answers given to old questions” –or, new questions beyond old answers…?). 
+
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+--------
 --------
 --------
 --------
