@@ -19,9 +19,14 @@
 --------
 --------
 Blog Post Submission(Before Week 5): 
+-
+-
 *Editing starting on Monday, Sept. 26th, 2022:*
+-
 [---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/1PKwA9ZExM04pQ6sDR7o7uz3fstwhhrykaVfLsqsi2c0/edit?usp=sharing)
-----------------
+
+------
+-------
 --------
 --------
 
