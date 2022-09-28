@@ -20,9 +20,9 @@
 --------
 Blog Post Submission(Before Week 5):
 
-*Editing starting on Monday, Sept. 26th, 2022:*
+*Editing starting on Monday, Sept. 26th, 2022 / Submitted before Week 5*
 1. [---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/1PKwA9ZExM04pQ6sDR7o7uz3fstwhhrykaVfLsqsi2c0/edit?usp=sharing)
-
+2. Elaborating on my visit to MoMA's exhibition "Never Alone: Video Games and Other Interactive Design" [Link To Exhibition](https://www.moma.org/calendar/exhibitions/5453)
 ------
 -------
 --------
@@ -41,8 +41,17 @@ Blog Post In Class Activity (Tuesday, Sept. 20th, 2022):
 
 --------
 --------
---------![AUTOMAT_WORK](https://user-images.githubusercontent.com/113192255/192856866-a87047be-7640-4651-9915-07e443046511.gif)
--Recent catalog text written for AUTOMAT Collective's Exhibition "HARD MEDIUM SOFTWARE" / Philadelphia, PA / 2022
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+![AUTOMAT_WORK](https://user-images.githubusercontent.com/113192255/192856866-a87047be-7640-4651-9915-07e443046511.gif)
+1. Recent catalog text written for AUTOMAT Collective's Exhibition "HARD MEDIUM SOFTWARE" / Philadelphia, PA / 2022
 
 --------
 --------
