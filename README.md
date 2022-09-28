@@ -50,10 +50,11 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 --------
 --------
 --------
+Assignement:
 Blog Post Submission(Before Week 5):
-
 *Editing starting on Monday, Sept. 26th, 2022 / Submitted before Week 5*
-1. [---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/1PKwA9ZExM04pQ6sDR7o7uz3fstwhhrykaVfLsqsi2c0/edit?usp=sharing) ---> Elaborating on my visit to MoMA's exhibition "Never Alone: Video Games and Other Interactive Design" [-->Link To Exhibition<--](https://www.moma.org/calendar/exhibitions/5453)
+
+1. [---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/1PKwA9ZExM04pQ6sDR7o7uz3fstwhhrykaVfLsqsi2c0/edit?usp=sharing) //// Contents: Elaborating on my visit to MoMA's exhibition "Never Alone: Video Games and Other Interactive Design" [-->Link To Exhibition<--](https://www.moma.org/calendar/exhibitions/5453)
 
 ------
 -------
