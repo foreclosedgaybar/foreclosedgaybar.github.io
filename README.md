@@ -18,12 +18,10 @@
 --------
 --------
 --------
-Blog Post Submission(Before Week 5): 
--
--
+Blog Post Submission(Before Week 5):
+
 *Editing starting on Monday, Sept. 26th, 2022:*
--
-[---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/1PKwA9ZExM04pQ6sDR7o7uz3fstwhhrykaVfLsqsi2c0/edit?usp=sharing)
+1. [---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/1PKwA9ZExM04pQ6sDR7o7uz3fstwhhrykaVfLsqsi2c0/edit?usp=sharing)
 
 ------
 -------
@@ -43,8 +41,9 @@ Blog Post In Class Activity (Tuesday, Sept. 20th, 2022):
 
 --------
 --------
---------
---------
+--------![AUTOMAT_WORK](https://user-images.githubusercontent.com/113192255/192856866-a87047be-7640-4651-9915-07e443046511.gif)
+-Recent catalog text written for AUTOMAT Collective's Exhibition "HARD MEDIUM SOFTWARE" / Philadelphia, PA / 2022
+
 --------
 --------
 --------
