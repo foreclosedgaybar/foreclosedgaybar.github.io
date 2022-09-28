@@ -84,7 +84,7 @@ Blog Post In Class Activity (Tuesday, Sept. 20th, 2022):
 --------
 --------
 ![AUTOMAT_WORK](https://user-images.githubusercontent.com/113192255/192856866-a87047be-7640-4651-9915-07e443046511.gif)
-1. Recent catalog text written for AUTOMAT Collective's Exhibition "HARD MEDIUM SOFTWARE" / Philadelphia, PA / 2022 [->link here<-](https://www.automatcollective.com/hard-medium-software)
+1. Documentation for a recent catalog text I wrote for AUTOMAT Collective's Exhibition "HARD MEDIUM SOFTWARE" / Philadelphia, PA / 2022 [->link here<-](https://www.automatcollective.com/hard-medium-software)
 
 --------
 --------
@@ -115,10 +115,29 @@ Blog Post In Class Activity (Tuesday, Sept. 20th, 2022):
 --------
 🌐 This site was built using [GitHub Pages](https://pages.github.com/) / I am trying GitHub as a way of experimenting with professional free personal website platforms...
 
+--------
+--------
+
+--------
+--------
 🌈 a link to my WIP [ABOUT ME PAGE](https://github.com/foreclosedgaybar/foreclosedgaybar.github.io/blob/aa9988fcc11d1cc68c57f490387d5b4045916577/AboutMe)
 
+--------
+--------
+--------
+--------
 Info: 'foreclosedgaybar' has been my online handle for years and I'm just keeping it for now... / My values in making include: exploring queer ontologies online and their IRL affects in visual culture.
 
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+--------
 --------
 --------
 (WIP)
@@ -126,15 +145,16 @@ For Class:
 - "I am coming from a studio arts/new media background so my language/vernacular/understanding of formal digital humanities might not port directly at first - - - but all my labor is, to my understanding, definitely within any digital humanities field: just being engaged in a different syntax." 
 
 About Me:
-- ♈ "Tannon Reckling is a transdisciplinary queer organizer, writer, teacher, and curator. Reckling is an incoming graduate 
+- ♈ "Tannon Reckling is a transdisciplinary queer organizer, writer, _____ , and curator. Reckling is an incoming graduate 
 student studying HIV/AIDS activism through new media at Tisch School, New York University. Reckling has previously attended 
 University of Oregon, University of California- Los Angeles. Reckling has curated and shown work in Philadelphia, PA, New York 
-City, NY, Los Angeles, CA, Venice, Italy, and more. Reckling is co-organizing the Philadelphia Museum of Art’s ‘Day Without Day 2022’
-iteration. Reckling recently curated the exhibition ‘Spreading Lights’ at Vox Populi in Philadelphia, PA which explored: “the virus,” 
-queer play, and necropolitics."
+City, NY, Los Angeles, CA, Venice, Italy, and more. Reckling is co-organizing the Philadelphia Museum of Art’s ‘Day Without Day 2022’iteration. Reckling recently curated the exhibition ‘Spreading Lights’ at Vox Populi in Philadelphia, PA which explored: “the virus,” queer play, and necropolitics."
 
 -------
 -------
+-------
+-------
+
 Recent Labor(WIP):
 - Weird Collab: [link](https://augury.house/TannonConvo)
 - Writing for Variable West: [link](https://variablewest.com/2021/09/16/interview-eden-v-evans-brian-gilllis/)
@@ -144,6 +164,13 @@ Recent Labor(WIP):
 - adding more later....
 
 -------
+-------
+-------
+-------
+-------
+-------
+-------
+
 Rabbit Holes(WIP):
 - Exhibition: "I was raised on the Internet" MCA-Chicago: [link](https://mcachicago.org/Publications/Websites/I-Was-Raised-On-The-Internet)
 - Net Art: "Black Trans Archive", Danielle Brathwaite-Shirley: [link](https://blacktransarchive.com)
@@ -151,4 +178,12 @@ Rabbit Holes(WIP):
 - adding more later....
 - Exhibition: "When I Leave This World" OCD Chinatown: [link](https://ocdchinatown.com/Carlos-Motta-and-Tiamat-Legion-Medusa)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jdH2Sy-BlNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aD7F6M9fsms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Exxu8lsGYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/42VQ9Juvd98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
