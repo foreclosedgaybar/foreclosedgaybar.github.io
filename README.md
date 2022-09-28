@@ -30,7 +30,7 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 --------------
 --------------
 -Note for Scrolling: 
-📚Oldest at the bottom 📚/ 📚Newest at the top 📚
+vvvvvvvv📚Oldest at the bottom 📚/ 📚Newest at the top 📚 vvvvv
 
 ----------------
 --------
