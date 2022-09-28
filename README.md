@@ -6,7 +6,7 @@
 ---------------
 ----------------
 --------<img width="663" alt="iamgeimageimage" src="https://user-images.githubusercontent.com/113192255/192858274-61c3cb19-aba9-4312-8fc4-1ef177c5e70e.png">
-1. Screenshot from website for MCA-Chicago's 2018 Exhibition "I Was Raised on the Internet"
+1. Screenshot from website for MCA-Chicago's 2018 Exhibition "I Was Raised on the Internet" [Link to Exhibition](https://mcachicago.org/Exhibitions/2018/I-Was-Raised-On-The-Internet)
 
 --------------
 ----------------
