@@ -14,12 +14,21 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 1. Screenshot from website for MCA-Chicago's 2018 Exhibition "I Was Raised on the Internet" [-->Link to Exhibition<--](https://mcachicago.org/Exhibitions/2018/I-Was-Raised-On-The-Internet)
 
 --------------
+--------------
+--------------
+--------------
+--------------
 *🍂🍂🍂🍂🍂🍂🍂🍂" my apologies for the mess!🍂🍂🍂🍂🍂🍂  I really am doing my best!" 📫🍂🍂🍂🍂🍂🍂*
 🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂
 🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂
 -
 -
--
+
+--------------
+
+--------------
+--------------
+--------------
 -Note for Scrolling: 
 📚Oldest at the bottom 📚/ 📚Newest at the top 📚
 
