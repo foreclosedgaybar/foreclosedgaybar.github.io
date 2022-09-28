@@ -11,7 +11,7 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 ---------------
 ----------------
 <img width="663" alt="iamgeimageimage" src="https://user-images.githubusercontent.com/113192255/192858274-61c3cb19-aba9-4312-8fc4-1ef177c5e70e.png">
-1. Screenshot from website for MCA-Chicago's 2018 Exhibition "I Was Raised on the Internet" [Link to Exhibition](https://mcachicago.org/Exhibitions/2018/I-Was-Raised-On-The-Internet)
+1. Screenshot from website for MCA-Chicago's 2018 Exhibition "I Was Raised on the Internet" [-->Link to Exhibition<--](https://mcachicago.org/Exhibitions/2018/I-Was-Raised-On-The-Internet)
 
 --------------
 *🍂🍂🍂🍂🍂🍂🍂🍂" my apologies for the mess!🍂🍂🍂🍂🍂🍂  I really am doing my best!" 📫🍂🍂🍂🍂🍂🍂*
@@ -44,7 +44,7 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 Blog Post Submission(Before Week 5):
 
 *Editing starting on Monday, Sept. 26th, 2022 / Submitted before Week 5*
-1. [---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/1PKwA9ZExM04pQ6sDR7o7uz3fstwhhrykaVfLsqsi2c0/edit?usp=sharing) ---> Elaborating on my visit to MoMA's exhibition "Never Alone: Video Games and Other Interactive Design" [Link To Exhibition](https://www.moma.org/calendar/exhibitions/5453)
+1. [---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/1PKwA9ZExM04pQ6sDR7o7uz3fstwhhrykaVfLsqsi2c0/edit?usp=sharing) ---> Elaborating on my visit to MoMA's exhibition "Never Alone: Video Games and Other Interactive Design" [-->Link To Exhibition<--](https://www.moma.org/calendar/exhibitions/5453)
 
 ------
 -------
@@ -74,7 +74,7 @@ Blog Post In Class Activity (Tuesday, Sept. 20th, 2022):
 --------
 --------
 ![AUTOMAT_WORK](https://user-images.githubusercontent.com/113192255/192856866-a87047be-7640-4651-9915-07e443046511.gif)
-1. Recent catalog text written for AUTOMAT Collective's Exhibition "HARD MEDIUM SOFTWARE" / Philadelphia, PA / 2022
+1. Recent catalog text written for AUTOMAT Collective's Exhibition "HARD MEDIUM SOFTWARE" / Philadelphia, PA / 2022 [->link here<-](https://www.automatcollective.com/hard-medium-software)
 
 --------
 --------
