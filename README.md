@@ -50,7 +50,7 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 --------
 --------
 --------
-Assignement:
+Assignment:
 Blog Post Submission(Before Week 5):
 *Editing starting on Monday, Sept. 26th, 2022 / Submitted before Week 5*
 
