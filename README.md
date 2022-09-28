@@ -5,22 +5,17 @@
 ----------------
 ---------------
 ----------------
---------<img width="663" alt="iamgeimageimage" src="https://user-images.githubusercontent.com/113192255/192858274-61c3cb19-aba9-4312-8fc4-1ef177c5e70e.png">
+<img width="663" alt="iamgeimageimage" src="https://user-images.githubusercontent.com/113192255/192858274-61c3cb19-aba9-4312-8fc4-1ef177c5e70e.png">
 1. Screenshot from website for MCA-Chicago's 2018 Exhibition "I Was Raised on the Internet" [Link to Exhibition](https://mcachicago.org/Exhibitions/2018/I-Was-Raised-On-The-Internet)
 
 --------------
-----------------
---------
---------------
-----------------
---------
---------------
-----------------
---------
---------------
-----------------
---------
-
+*🍂🍂🍂🍂🍂🍂🍂🍂" my apologies for the mess!🍂🍂🍂🍂🍂🍂  I really am doing my best!" 📫🍂🍂🍂🍂🍂🍂*
+🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂
+🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂
+-
+-
+-
+-Note for Scrolling: 
 📚Oldest at the bottom 📚/ 📚Newest at the top 📚
 
 ----------------
@@ -120,7 +115,7 @@ For Class:
 - "I am coming from a studio arts/new media background so my language/vernacular/understanding of formal digital humanities might not port directly at first - - - but all my labor is, to my understanding, definitely within any digital humanities field: just being engaged in a different syntax." 
 
 About Me:
-- "Tannon Reckling is a transdisciplinary queer organizer, writer, teacher, and curator. Reckling is an incoming graduate 
+- ♈ "Tannon Reckling is a transdisciplinary queer organizer, writer, teacher, and curator. Reckling is an incoming graduate 
 student studying HIV/AIDS activism through new media at Tisch School, New York University. Reckling has previously attended 
 University of Oregon, University of California- Los Angeles. Reckling has curated and shown work in Philadelphia, PA, New York 
 City, NY, Los Angeles, CA, Venice, Italy, and more. Reckling is co-organizing the Philadelphia Museum of Art’s ‘Day Without Day 2022’
