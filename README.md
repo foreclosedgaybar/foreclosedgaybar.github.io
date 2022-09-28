@@ -51,9 +51,9 @@ vvvvvvvv📚Oldest at the bottom 📚/ 📚Newest at the top 📚 vvvvv
 --------
 --------
 Assignment:
-Blog Post Submission(Before Week 5):
+Blog Post (BP): 
+-
 *Editing starting on Monday, Sept. 26th, 2022 / Submitted before Week 5*
-
 1. [---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/1PKwA9ZExM04pQ6sDR7o7uz3fstwhhrykaVfLsqsi2c0/edit?usp=sharing) //// Contents: Elaborating on my visit to MoMA's exhibition "Never Alone: Video Games and Other Interactive Design" [-->Link To Exhibition<--](https://www.moma.org/calendar/exhibitions/5453)
 
 ------
@@ -64,8 +64,7 @@ Blog Post Submission(Before Week 5):
 --------
 --------
 --------
-
-Blog Post In Class Activity (Tuesday, Sept. 20th, 2022):
+Assignment/Class Activity(Tuesday, Sept. 20th, 2022) /// Blog Post:
 [---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/16oFakq-Tz40t3ROmdE0oHveiwJqbID8IY2mkoR-U1mk/edit?usp=sharing)
 1. What are the affordances (benefits) of these digital tools and/or computational methods? Consider, for instance, how you would use this specific approach, and towards what kind of research questions.  
 2. What are some limitations to this methodology/tool? 
