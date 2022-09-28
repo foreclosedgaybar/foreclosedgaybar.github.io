@@ -1,7 +1,12 @@
 
+📚Fall 2022 - CINE-GT 3040:📚
+Cinema and the Digital Humanities: History, Concepts, and New Approaches to the Study of Moving Images
 
---------
 -------
+-------
+----------------
+---------------
+----------------
 ----------------
 ---------------
 ----------------
@@ -39,8 +44,8 @@
 Blog Post Submission(Before Week 5):
 
 *Editing starting on Monday, Sept. 26th, 2022 / Submitted before Week 5*
-1. [---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/1PKwA9ZExM04pQ6sDR7o7uz3fstwhhrykaVfLsqsi2c0/edit?usp=sharing)
-2. Elaborating on my visit to MoMA's exhibition "Never Alone: Video Games and Other Interactive Design" [Link To Exhibition](https://www.moma.org/calendar/exhibitions/5453)
+1. [---->Click Here for Blog Post Link<---](https://docs.google.com/document/d/1PKwA9ZExM04pQ6sDR7o7uz3fstwhhrykaVfLsqsi2c0/edit?usp=sharing) ---> Elaborating on my visit to MoMA's exhibition "Never Alone: Video Games and Other Interactive Design" [Link To Exhibition](https://www.moma.org/calendar/exhibitions/5453)
+
 ------
 -------
 --------
@@ -94,10 +99,6 @@ Blog Post In Class Activity (Tuesday, Sept. 20th, 2022):
 --------
 --------
 --------
-
-📚Fall 2022 - CINE-GT 3040:📚
-Cinema and the Digital Humanities: History, Concepts, and New Approaches to the Study of Moving Images
-
 --------
 
 --------
