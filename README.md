@@ -46,7 +46,27 @@ vvvvvvvv📚Oldest at the bottom 📚/ 📚Newest at the top 📚 vvvvv
 --------------
 ----------------
 --------
+General Blog Post (Tuesday, Oct. 18th):
+[-->CLick Here for Blog Post<--] (https://docs.google.com/document/d/1DgozcdoAN5DlGxG-3g8xxbgCYUF44ACPxjyv0wia8_k/edit)
 
+--------
+--------
+--------
+--------
+--------
+----------------
+--------
+--------
+--------
+--------
+--------
+
+--------
+--------
+--------
+--------
+--------
+--------
 --------
 --------
 --------
