@@ -40,14 +40,12 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 ----------------
 --------
 General Blog Post (Nov. 29th):
--
 Informal Debate: 
 -
-No: "What is queerness in DH?"
 -
-No: "Where is queerness in DH?"
+---> No: "What is queerness in DH?" -No: "Where is queerness in DH?"Interesting: "How can queerness be utilized in DH?" 
 -
-Interesting: "How can queerness be utilized in DH?" 
+-
 -
 -Inspiration: "What's Queer about Queer Studies Now?" (Jack Halberstam, José Esteban Muñoz, David L. Eng, 2015)[-->Text Link<--](https://www.dukeupress.edu/whats-queer-about-queer-studies-now-1)
 
