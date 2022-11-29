@@ -47,7 +47,13 @@ Informal Debate:
 -
 -
 -Inspiration: "What's Queer about Queer Studies Now?" (Jack Halberstam, José Esteban Muñoz, David L. Eng, 2015)[-->Text Link<--](https://www.dukeupress.edu/whats-queer-about-queer-studies-now-1)
-
+-
+-
+-Partly inspired by recent collaborative labor here:
+https://www.e-flux.com/readers/490111/industry-queer
+-
+-
+-
 -Rubery, Bonnie, et al. “Toward a Queer Digital Humanities.” Bodies of Information: Intersectional Feminism and the Digital Humanities, University of Minnesota Press, 2018.
 
 -Petrychyn, Jonathan. 2020. “Queering New Cinema History: Affective Methodologies for
