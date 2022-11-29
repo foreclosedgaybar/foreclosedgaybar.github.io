@@ -18,14 +18,13 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 --------------
 --------------
 --------------
-*🍂🍂🍂🍂🍂🍂🍂🍂" my apologies for the mess!🍂🍂🍂🍂🍂🍂  I really am doing my best!" 📫🍂🍂🍂🍂🍂🍂*
-🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂
-🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂
--
--
+🍂🍂🍂🍂🍂🍂🍂🍂
 
 --------------
-
+-------
+--------------
+----------------
+--------
 --------------
 --------------
 --------------
@@ -40,12 +39,43 @@ vvvvvvvv📚Oldest at the bottom 📚/ 📚Newest at the top 📚 vvvvv
 --------------
 ----------------
 --------
+General Blog Post (Nov. 29th):
+Informal Debate: 
+No: "What is queerness in DH?"
+No: "Where is queerness in DH?"
+Interesting: "How can queerness be utilized in DH?" 
+
+-Inspiration: "What's Queer about Queer Studies Now?" (Jack Halberstam, José Esteban Muñoz, David L. Eng, 2015)[-->Text Link<--](https://www.dukeupress.edu/whats-queer-about-queer-studies-now-1)
+
+-Rubery, Bonnie, et al. “Toward a Queer Digital Humanities.” Bodies of Information: Intersectional Feminism and the Digital Humanities, University of Minnesota Press, 2018.
+
+-Petrychyn, Jonathan. 2020. “Queering New Cinema History: Affective Methodologies for
+Comparative History”. TMG Journal for Media History 23 (1-2): 1–22. DOI:
+http://doi.org/10.18146/tmg.588
+
+-Cifor, Marika. "Aligning Bodies: Collecting, Arranging, and Describing Hatred for a Critical Queer Archives." John Hopkins University Press, Library Trends, vol. 64, 2016.
+—-> Introduces and defines a “radical empathy” in archives, and touches on digital data; with a project like the AIDS Quilt, this agency comes into all aspects of the project, undefined but taken for granted.
+
+
+-Verhoeven, Deb. “Visualizing data in digital cinema studies: more than just going through the motions?” Alphaville: Journal of Film and Screen Media, 11, pp. 92–104.
+https://doi.org/10.33178/alpha.11.06. (2016).
+	—-> Utilizing an “accountability” which interrogates a technical and methodological invisibility of processes by which we simultaneously produce and derive meaning from our data in visual forms.
+
+
+-
+-
+
 --------------
 ----------------
 --------
 --------------
 ----------------
 --------
+-------
+--------------
+----------------
+--------
+
 General Blog Post (Tuesday, Oct. 18th):
 [-->CLick Here for Blog Post<--](https://docs.google.com/document/d/1DgozcdoAN5DlGxG-3g8xxbgCYUF44ACPxjyv0wia8_k/edit)
 - Contents include: Engaging Expressive AI Symposium + GIS Technology 
