@@ -50,7 +50,7 @@ Informal Debate:
 -
 -
 -Partly inspired by recent collaborative labor here:
-https://www.e-flux.com/readers/490111/industry-queer
+[-->Link<--]https://www.e-flux.com/readers/490111/industry-queer
 -
 -
 -
