@@ -42,8 +42,7 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 General Blog Post (Nov. 29th):
 Informal Debate: 
 -
--
----> No: "What is queerness in DH?" -No: "Where is queerness in DH?"Interesting: "How can queerness be utilized in DH?" 
+---> No: "What is queerness in DH?" -No: "Where is queerness in DH?" - Interesting: "How can queerness be utilized in DH?" 
 -
 -
 -
@@ -62,7 +61,7 @@ http://doi.org/10.18146/tmg.588
 -Verhoeven, Deb. “Visualizing data in digital cinema studies: more than just going through the motions?” Alphaville: Journal of Film and Screen Media, 11, pp. 92–104.
 https://doi.org/10.33178/alpha.11.06. (2016).
 	—-> Utilizing an “accountability” which interrogates a technical and methodological invisibility of processes by which we simultaneously produce and derive meaning from our data in visual forms.
-	
+
 --------------
 ----------------
 --------
