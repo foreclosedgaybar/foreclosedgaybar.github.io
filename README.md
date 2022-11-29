@@ -29,7 +29,7 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 --------------
 --------------
 -Note for Scrolling: 
-vvvvvvvv📚Oldest at the bottom 📚/ 📚Newest at the top 📚 vvvvv
+📚Oldest at the bottom 📚/ 📚Newest at the top 📚
 
 ----------------
 --------
@@ -42,6 +42,7 @@ vvvvvvvv📚Oldest at the bottom 📚/ 📚Newest at the top 📚 vvvvv
 General Blog Post (Nov. 29th):
 -
 Informal Debate: 
+-
 No: "What is queerness in DH?"
 -
 No: "Where is queerness in DH?"
