@@ -39,7 +39,7 @@ Cinema and the Digital Humanities: History, Concepts, and New Approaches to the 
 --------------
 ----------------
 --------
-General Blog Post (Nov. 29th):
+General Blog Post (Tuesday, Nov. 29th):
 Informal Debate: 
 -
 ---> No: "What is queerness in DH?" -No: "Where is queerness in DH?" - Interesting: "How can queerness be utilized in DH?" 
